@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 SmartSpender AI is an intelligent personal finance management application built with Next.js that leverages artificial intelligence to help users track expenses, analyze spending patterns, and receive personalized financial insights. The application employs modern web technologies and machine learning to deliver a seamless user experience focused on improving financial decision-making.
 
 
